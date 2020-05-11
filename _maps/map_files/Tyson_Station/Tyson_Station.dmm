@@ -168,7 +168,7 @@
 /turf/open/floor/light,
 /area/maintenance/auxsolarport)
 "aaL" = (
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /turf/open/floor/grass,
 /area/hydroponics/garden)
 "aaM" = (
@@ -258,7 +258,7 @@
 /obj/machinery/light{
 	dir = 8
 	},
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /turf/open/floor/grass,
 /area/hydroponics/garden)
 "abd" = (
@@ -1041,7 +1041,7 @@
 /turf/open/floor,
 /area/security/main)
 "adK" = (
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /turf/open/floor/grass,
 /area/security/main)
 "adL" = (
@@ -1443,7 +1443,7 @@
 /obj/machinery/light{
 	dir = 8
 	},
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /turf/open/floor/grass,
 /area/security/main)
 "afq" = (
@@ -5495,7 +5495,7 @@
 /obj/machinery/light{
 	dir = 4
 	},
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/grass,
 /area/hydroponics/garden)
@@ -5763,7 +5763,7 @@
 /turf/open/floor,
 /area/mainship/hallways/port_hallway)
 "atu" = (
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/grass,
 /area/hydroponics/garden)
@@ -14348,7 +14348,7 @@
 	},
 /area/hydroponics)
 "aVa" = (
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /turf/open/floor/grass,
 /area/hydroponics)
 "aVb" = (
@@ -15518,7 +15518,7 @@
 /turf/open/floor,
 /area/bigred/ground/central_hall)
 "aYr" = (
-/obj/machinery/portable_atmospherics/hydroponics/soil,
+/obj/machinery/hydroponics/soil,
 /obj/effect/decal/cleanable/blood,
 /turf/open/floor/grass,
 /area/hydroponics)

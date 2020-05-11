@@ -4923,7 +4923,7 @@
 	},
 /area/lv624/lazarus/medbay)
 "asI" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/structure/sink{
 	dir = 4
 	},
@@ -5329,7 +5329,7 @@
 /turf/open/floor/plating/ground/dirt,
 /area/lv624/ground/jungle7)
 "aup" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/structure/sink{
 	dir = 8
 	},
@@ -6126,13 +6126,13 @@
 	},
 /area/lv624/lazarus/hydroponics)
 "axm" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/floor/tile/green/greentaupe{
 	dir = 5
 	},
 /area/lv624/lazarus/hydroponics)
 "axn" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/floor/tile/green/greentaupe{
 	dir = 9
 	},
@@ -6351,7 +6351,7 @@
 /turf/open/ground/grass/grass2,
 /area/lv624/ground/jungle9)
 "ayc" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/floor/tile/green/greentaupe{
 	dir = 1
 	},
@@ -6734,7 +6734,7 @@
 	},
 /area/lv624/lazarus/hydroponics)
 "azm" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/structure/sink,
 /turf/open/floor/tile/green/greentaupe{
 	dir = 1

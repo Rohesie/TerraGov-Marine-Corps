@@ -1037,7 +1037,7 @@
 #include "code\modules\hydroponics\biogenerator.dm"
 #include "code\modules\hydroponics\grown_inedible.dm"
 #include "code\modules\hydroponics\hydro_tools.dm"
-#include "code\modules\hydroponics\hydro_tray.dm"
+#include "code\modules\hydroponics\hydroponics.dm"
 #include "code\modules\hydroponics\seed_datums.dm"
 #include "code\modules\hydroponics\seed_machines.dm"
 #include "code\modules\hydroponics\seeds.dm"

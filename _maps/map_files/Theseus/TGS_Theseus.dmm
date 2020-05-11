@@ -3485,7 +3485,7 @@
 	},
 /area/mainship/command/corporateliaison)
 "aiP" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/item/seeds/goldappleseed,
 /turf/open/floor/mainship{
 	dir = 5;
@@ -3883,7 +3883,7 @@
 /turf/open/floor/mainship,
 /area/mainship/command/cic)
 "ajT" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/item/seeds/goldappleseed,
 /obj/item/tool/minihoe,
 /obj/item/reagent_containers/glass/fertilizer/ez,
@@ -7466,7 +7466,7 @@
 	},
 /area/mainship/medical/medical_science)
 "arL" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/machinery/light{
 	dir = 4
 	},
@@ -7475,7 +7475,7 @@
 	},
 /area/mainship/medical/medical_science)
 "arM" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/machinery/light{
 	dir = 8
 	},
@@ -41151,18 +41151,18 @@
 /turf/open/floor/mainship/mono,
 /area/mainship/hull/lower_hull)
 "cbV" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/machinery/light{
 	dir = 8
 	},
 /turf/open/floor/mainship/mono,
 /area/mainship/hull/lower_hull)
 "cbW" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/floor/mainship/mono,
 /area/mainship/hull/lower_hull)
 "cbX" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/machinery/light{
 	dir = 4
 	},
@@ -41691,7 +41691,7 @@
 /turf/open/floor/mainship/mono,
 /area/mainship/hull/lower_hull)
 "cdu" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/machinery/light,
 /turf/open/floor/mainship/mono,
 /area/mainship/hull/lower_hull)
@@ -42788,7 +42788,7 @@
 	},
 /area/mainship/command/cic)
 "cgK" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/floor/mainship/mono,
 /area/mainship/shipboard/brig_cells)
 "cgL" = (
@@ -45169,7 +45169,7 @@
 /turf/open/floor/plating/plating_catwalk,
 /area/mainship/hull/upper_hull)
 "hcq" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/floor/mainship{
 	icon_state = "sterile_green"
 	},
@@ -47831,7 +47831,7 @@
 	},
 /area/mainship/shipboard/chief_mp_office)
 "uQd" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /obj/machinery/light{
 	dir = 1
 	},

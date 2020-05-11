@@ -2605,7 +2605,7 @@
 	},
 /area/ice_colony/surface/substation/smes)
 "ahE" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/ground/grass,
 /area/ice_colony/surface/hydroponics/north)
 "ahF" = (
@@ -9882,7 +9882,7 @@
 	},
 /area/ice_colony/surface/disposals)
 "aAn" = (
-/obj/machinery/portable_atmospherics/hydroponics,
+/obj/machinery/hydroponics,
 /turf/open/ground/grass,
 /area/ice_colony/surface/hydroponics/south)
 "aAo" = (
